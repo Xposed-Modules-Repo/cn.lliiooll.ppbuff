@@ -3,8 +3,8 @@
 
 ![above](https://img.shields.io/badge/Android-7.0%20or%20above-brightgreen.svg)
 ![1](https://img.shields.io/github/stars/lliioollcn/PPHelper)
-![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cn.xihan.qdds/total)
-[![Latest Release](https://img.shields.io/github/release/Xposed-Modules-Repo/cn.xihan.qdds.svg)](../../releases)
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cn.lliiooll.pphelper/total)
+[![Latest Release](https://img.shields.io/github/release/Xposed-Modules-Repo/cn.lliiooll.pphelper.svg)](../../releases)
 ![https://github.com/lliioollcn](https://img.shields.io/badge/author-lliioollcn-6cf.svg?style=flat)
 
 
