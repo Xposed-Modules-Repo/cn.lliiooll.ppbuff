@@ -24,10 +24,10 @@ appcenter: https://install.appcenter.ms/users/lliioollcn/apps/ppbuff/distributio
 - [x] 评论区显示详细时间
 - [x] 精简“我的”界面
 - [x] 去除直播
-- [ ] 评论自定义语音
-- [ ] 语音保存
-- [ ] 自动任务
-- [ ] 自动刮卡
+- [x] 评论自定义语音
+- [x] 语音保存
+- [x] 自动任务
+- [x] 自动刮卡
 - [ ] 待续...
 
 # 已完成功能/开发计划 (最右)
